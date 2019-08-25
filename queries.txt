@@ -1,0 +1,12 @@
+C++ programming language
+C++ embedded
+C++ ISO
+Stroustrup C++
+C++ compiler
+Stroustrup Engineering Prize
+C++ memory management
+Static storage duration
+C++ local variables
+objects lifespan
+C++ templates
+Templates vs macro
