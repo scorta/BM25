@@ -14,11 +14,8 @@ It will create 2 output files: `res_bm25` & `res_reverse_index` with format:
 
 ````
 <blank>	query-1	query-2	...	query-n
-
 doc-1	score-1.1	score-1.2	... score-1.n
-
 doc-2	score-2.1	score-2.2	... score-2.n
-
 ...
 ````
 
